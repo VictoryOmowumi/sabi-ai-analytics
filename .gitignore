@@ -4,3 +4,11 @@ dist/
 out/
 coverage/
 *.log
+
+.env.local
+*.zip
+ai-fe-build.zip
+node_modules/
+dist/
+.next/
+out/
